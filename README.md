@@ -1,5 +1,6 @@
 # WALL-E
 A replica of the original Disney friendly robot WALL-E
+<img src="/Images/walleRender.png" align="right" width = "50%" height = "50%" />
 
 ### Table of Contents  
 * [Materials](#Materials)  
@@ -42,9 +43,10 @@ Other
 * 2x Servo motor
 * 2x Dc motor
 * M8 M3 bolts and nuts
+* 4x 22 diameter bearings
 
-### Hand - [files](/3D%20Parts/Hand)
-3D Printed
+### Hand 
+3D Printed - [files](/3D%20Parts/Hand)
 * 2x ConnectionToCilinder
 * 2x HandHolder
 * 2x TwoFingers
@@ -89,6 +91,7 @@ Other
 Other
 * M3 screws and nuts
 * M6 bolts and nuts
+* 2x 22 diameter bearings
 
 
 
