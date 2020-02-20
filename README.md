@@ -44,8 +44,8 @@ Other
 * 2x Dc motor
 * M8 M3 bolts and nuts
 
-### Hand - [files](/3D%20Parts/Hand)
-3D Printed
+### Hand 
+3D Printed - [files](/3D%20Parts/Hand)
 * 2x ConnectionToCilinder
 * 2x HandHolder
 * 2x TwoFingers
