@@ -43,6 +43,7 @@ Other
 * 2x Servo motor
 * 2x Dc motor
 * M8 M3 bolts and nuts
+* 4x 22 diameter bearings
 
 ### Hand 
 3D Printed - [files](/3D%20Parts/Hand)
@@ -90,6 +91,7 @@ Other
 Other
 * M3 screws and nuts
 * M6 bolts and nuts
+* 2x 22 diameter bearings
 
 
 
