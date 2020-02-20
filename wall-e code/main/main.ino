@@ -1,4 +1,10 @@
-#include<SoftwareSerial.h>
+
+
+#include "globalVariables.h"
+#include "arm_movement.h"
+#include "wave.h"
+
+
 SoftwareSerial SUART(A0, A1);
 
 const int enablePin = 11;
@@ -20,6 +26,8 @@ void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(btPin0, INPUT);
   pinMode(btPin1, INPUT);
+  rightArm.attach(10);
+  rightArm.write(0);
 }
 
 void setMotor(int motorSpeed , boolean reverse)
@@ -29,46 +37,73 @@ void setMotor(int motorSpeed , boolean reverse)
   digitalWrite(in2Pin, reverse);
 }
 
-int comanda; // default
-boolean arms = 0;
+int command; // default
+
 
 void loop() {
   if(SUART.available()){
-    comanda = SUART.read();
-    Serial.println(comanda);
+    command = SUART.read();
+    Serial.println(command);
     
     digitalWrite(LED_BUILTIN, HIGH);
   }
   if(arms == 0){
     //control the weels
-    if (comanda == 70){
+    if (command == 70){
       //setMotor(motorSpeed, reverse);
       Serial.println("fata");
     }
   
-    if (comanda == 66){
+    if (command == 66){
       //setMotor(motorSpeed, reverse);
       Serial.println("spate");
     }
     
-    if (comanda == 82){
+    if (command == 82){
       //setMotor(motorSpeed, reverse);
       Serial.println("dreapta");
     }
     
-    if (comanda == 76){
+    if (command == 76){
       //setMotor(motorSpeed, reverse);
       Serial.println("stanga");
     }
   }
   else{
     //control the arms
+
+    // For the left arm
+    if(command == 70){
+      move_arm_up(posServoLeftArm);
+    }
+    if(command == 66){
+      move_arm_down(posServoLeftArm);
+    }
+
+    // For the right arm
+    if(command == 82){
+      move_arm_up(posServoRightArm);
+    }
+    if(command == 76){
+      move_arm_down(posServoRightArm);
+    }
+
+    // Make Wall-e wave
+    //wave with left - aka 0
+    if(command == 119){
+      wave(0);
+    }
+    //wave with right - aka 1
+    if(command == 117){
+      wave(1);
+    }
   }
 
-  if(comanda == 120){
-    // controlul e obtinuta de brate
+  if(command == 120){
+    // the arms have the control
     arms = !arms;
   }
+
   
 }
 
@@ -81,3 +116,5 @@ void loop() {
 // jos+stanga = 72
 // sus+dreapta = 73
 //jos+dreapta = 74
+// faruri fata = 119
+// faruri spate = 117
