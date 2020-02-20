@@ -16,8 +16,8 @@ Other
 * 8x 22 diameter bearings
 * M8 M6 screws and nuts
 
-### Arm - [files](/3D%20Parts/Arm)
-3D Printed
+### Arm 
+3D Printed - [files](/3D%20Parts/Arm)
 * LeftArmleft
 * LeftArmright
 * LeftArmCoup
@@ -46,8 +46,8 @@ Other
 Other
 * M4 M3 screws and nuts
 
-### Head - [files](/3D%20Parts/Head)
-3D Printed
+### Head 
+3D Printed - [files](/3D%20Parts/Head)
 * leftEye
 * leftEyeMiddle
 * leftEyeBack
@@ -63,8 +63,8 @@ Other
 Other
 * M4 M12 bolts and nuts
 
-### Compression - [files](/3D%20Parts/Compression)
-3D Printed
+### Compression 
+3D Printed - [files](/3D%20Parts/Compression)
 * backWall
 * compressor
 * FloorWithHinge
