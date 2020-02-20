@@ -3,7 +3,7 @@
 ## Materials
 
 ### Tracks
-3D Printed - [link](/3D%20Parts/Tracks)
+3D Printed - [files](/3D%20Parts/Tracks)
 * 2x TractionGear
 * 32x trackPiece
 * 2x reinforcementTrackGuard
@@ -16,7 +16,7 @@ Other
 * 8x 22 diameter bearings
 * M8 M6 screws and nuts
 
-### Arm
+### Arm - [files](/3D%20Parts/Arm)
 3D Printed
 * LeftArmleft
 * LeftArmright
@@ -36,7 +36,7 @@ Other
 * 2x Dc motor
 * M8 M3 bolts and nuts
 
-### Hand
+### Hand - [files](/3D%20Parts/Hand)
 3D Printed
 * 2x ConnectionToCilinder
 * 2x HandHolder
@@ -46,7 +46,7 @@ Other
 Other
 * M4 M3 screws and nuts
 
-### Head
+### Head - [files](/3D%20Parts/Head)
 3D Printed
 * leftEye
 * leftEyeMiddle
@@ -63,7 +63,7 @@ Other
 Other
 * M4 M12 bolts and nuts
 
-### Compression
+### Compression - [files](/3D%20Parts/Compression)
 3D Printed
 * backWall
 * compressor
