@@ -3,6 +3,8 @@ A replica of the original Disney friendly robot WALL-E
 
 ### Table of Contents  
 [Materials](#Materials)  
+[Usage](#Usage)
+[Images](#Images)
 
 <a name="Materials"/> </a>
 ### Materials
