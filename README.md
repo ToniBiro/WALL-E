@@ -1,9 +1,13 @@
 # WALL-E
 A replica of the original Disney friendly robot WALL-E
 
-## Materials
+### Table of Contents  
+[Materials](#Materials)  
 
-### Tracks
+<a name="Materials"/>
+### Materials
+
+#### Tracks
 3D Printed - [files](/3D%20Parts/Tracks)
 * 2x TractionGear
 * 32x trackPiece
@@ -17,7 +21,7 @@ Other
 * 8x 22 diameter bearings
 * M8 M6 screws and nuts
 
-### Arm 
+#### Arm 
 3D Printed - [files](/3D%20Parts/Arm)
 * LeftArmleft
 * LeftArmright
@@ -47,7 +51,7 @@ Other
 Other
 * M4 M3 screws and nuts
 
-### Head 
+#### Head 
 3D Printed - [files](/3D%20Parts/Head)
 * leftEye
 * leftEyeMiddle
@@ -64,7 +68,7 @@ Other
 Other
 * M4 M12 bolts and nuts
 
-### Compression 
+#### Compression 
 3D Printed - [files](/3D%20Parts/Compression)
 * backWall
 * compressor
