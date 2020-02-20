@@ -2,8 +2,8 @@
 
 ## Materials
 
-### [Tracks](/3D%20Parts/Tracks)
-3D Printed
+### Tracks
+3D Printed - [link](/3D%20Parts/Tracks)
 * 2x TractionGear
 * 32x trackPiece
 * 2x reinforcementTrackGuard
