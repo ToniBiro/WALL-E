@@ -1,6 +1,6 @@
 # WALL-E
 A replica of the original Disney friendly robot WALL-E
-<img src="/Images/walleRender.png" align="right" />
+<img src="/Images/walleRender.png" align="right" style="width = 20%" />
 
 ### Table of Contents  
 * [Materials](#Materials)  
