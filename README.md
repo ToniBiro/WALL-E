@@ -4,8 +4,8 @@ A replica of the original Disney friendly robot WALL-E
 
 ### Table of Contents
 * [Features](#Features)
+* [Usage](#Usage)
 * [Materials](#Materials)  
-* [Usage](#Usage)   
 * [Images](#Images) 
 * [Video](#Video)
 <a name="Features"/> </a>
@@ -16,12 +16,14 @@ the robot can move and rotate
 * Arm rotation  
 the robot can move it's arms 180 deg  
 
-
 #### To Do
 * Hand slider movement  
 * Compression chamber door movement  
 * The compression process  
 
+<a name="Usage"/> </a>
+### Usage
+The robot is controlled via a Bluetooth phone application.
 <a name="Materials"/> </a>
 ### Materials
 
