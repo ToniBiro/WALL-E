@@ -2,11 +2,29 @@
 A replica of the original Disney friendly robot WALL-E
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />
 
-### Table of Contents  
+### Table of Contents
+* [Features](#Features)
+* [Usage](#Usage)
 * [Materials](#Materials)  
-* [Usage](#Usage)   
 * [Images](#Images) 
 * [Video](#Video)
+* [Roadmap](#Roadmap)
+<a name="Features"/> </a>
+### Features
+#### Done
+* Tracks movement  
+the robot can move and rotate    
+* Arm rotation  
+the robot can move it's arms 180 deg  
+
+#### To Do
+* Hand slider movement  
+* Compression chamber door movement  
+* The compression process  
+
+<a name="Usage"/> </a>
+### Usage
+The robot is controlled via a Bluetooth phone application.
 <a name="Materials"/> </a>
 ### Materials
 
@@ -93,6 +111,19 @@ Other
 * M6 bolts and nuts
 * 2x 22 diameter bearings
 
+<a name="Roadmap"/> </a>
+### Roadmap
 
+<table style="width:100%">
+  <tr>
+    <td>-</td>
+    <td><img src="/Images/walleRender.png" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 
 
