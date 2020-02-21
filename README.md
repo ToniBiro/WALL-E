@@ -135,6 +135,11 @@ Other
     <td><img src="/Images/roadmap/6feb.jpg" align="right"/>
 </td>
   </tr>
+    <tr>
+    <td>6 February</td>
+    <td><img src="/Images/roadmap/6feb.gif" align="right"/>
+</td>
+  </tr>
   <tr>
     <td>21 February</td>
     <td><img src="/Images/roadmap/9feb.jpg" align="right"/>
