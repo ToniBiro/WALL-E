@@ -161,6 +161,12 @@ Other
 </td>
   </tr>
   <tr>
+    <td>20 February</td>
+    <td><img src="/Images/roadmap/20feb.jpg" align="right"/>
+</td>
+  </tr>
+  </tr>
+  <tr>
     <td>21 February</td>
     <td><img src="/Images/roadmap/21feb.jpg" align="right"/>
 </td>
