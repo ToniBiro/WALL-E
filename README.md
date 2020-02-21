@@ -2,11 +2,15 @@
 A replica of the original Disney friendly robot WALL-E
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />
 
-### Table of Contents  
+### Table of Contents
+* [Features](#Features)
 * [Materials](#Materials)  
 * [Usage](#Usage)   
 * [Images](#Images) 
 * [Video](#Video)
+<a name="Features"/> </a>
+### Features
+
 <a name="Materials"/> </a>
 ### Materials
 
