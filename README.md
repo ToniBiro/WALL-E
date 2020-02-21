@@ -10,7 +10,7 @@ A replica of the original Disney friendly robot WALL-E
 * [Video](#Video)
 <a name="Features"/> </a>
 ### Features
-substr | :heavy_check_mark: 
+substr  :heavy_check_mark: 
 
 
 
