@@ -10,7 +10,9 @@ A replica of the original Disney friendly robot WALL-E
 * [Video](#Video)
 <a name="Features"/> </a>
 ### Features
-*[ ]
+- [ ] 1
+
+
 <a name="Materials"/> </a>
 ### Materials
 
