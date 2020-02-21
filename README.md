@@ -117,7 +117,7 @@ Other
 <table style="width:100%">
   <tr>
     <td>-</td>
-    <td><img src="/Images/walleRender.png" align="right"/>
+    <td><img src="/Images/roadmap/15feb.gif" align="right"/>
 </td>
   </tr>
   <tr>
