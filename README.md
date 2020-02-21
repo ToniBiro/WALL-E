@@ -160,6 +160,11 @@ Other
     <td><img src="/Images/roadmap/11feb.jpg" align="right"/>
 </td>
   </tr>
+    <tr>
+    <td>12 February</td>
+    <td><img src="/Images/roadmap/12feb.jpg" align="right"/>
+</td>
+  </tr>
 <tr>
     <td>15 February</td>
     <td><img src="/Images/roadmap/15feb.gif" align="right"/>
