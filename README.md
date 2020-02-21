@@ -11,10 +11,10 @@ A replica of the original Disney friendly robot WALL-E
 <a name="Features"/> </a>
 ### Features
 #### Done
-Tracks movement  
-- the robot can move and rotate    
-Arm rotation  
-- the robot can move it's arms 180 deg  
+* Tracks movement  
+** the robot can move and rotate    
+* Arm rotation  
+** the robot can move it's arms 180 deg  
 
 
 #### To Do
