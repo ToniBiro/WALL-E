@@ -18,9 +18,9 @@ the robot can move it's arms 180 deg
 
 
 #### To Do
-Hand slider movement  
-Compression chamber door movement  
-The compression process  
+* Hand slider movement  
+* Compression chamber door movement  
+* The compression process  
 
 <a name="Materials"/> </a>
 ### Materials
