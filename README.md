@@ -32,7 +32,7 @@ the robot can move it's arms 180 deg
 
 <a name="Usage"/> </a>
 ### Usage
-The robot is controlled via a Bluetooth phone application.
+The robot is controlled via a Bluetooth phone application. He can move around and move his arms up and down. He can also wave.
 <a name="Materials"/> </a>
 ### Materials
 
