@@ -11,8 +11,8 @@ Wall-e is a robot that was left on earth to clean it up after the whole human ra
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />  
 
 ### TEAM  
-* Antonia Biro-Balan
-* Mihai Stoian  
+* [Antonia Biro-Balan](https://github.com/ToniBiro)
+* [Mihai Stoian](https://github.com/mihainsto)
 
 ### Table of Contents
 * [Features](#Features)
