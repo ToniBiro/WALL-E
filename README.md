@@ -16,7 +16,8 @@ We tried to replicate the original Pixar friendly robot WALL-E.
 * [Roadmap](#Roadmap)
 <a name="Features"/> </a>
 ### Features
-- Wheel movement. He can move front and back but can't turn around yet.
+#### Overview
+- Track/Wheel movement. He can move front and back but can't turn around yet.
 - Arm movement. He can move them up and down but not front and back yet.
 - Compression Room is existent but not completely assembeled yet.
 - He is controlled via Bluetooth
@@ -30,11 +31,13 @@ the robot can move it's arms 180 deg
 #### To Do
 * Hand slider movement  
 * Compression chamber door movement  
-* The compression process  
+* Assemble the compression process  
 
 <a name="Usage"/> </a>
 ### Usage
-The robot is controlled via a Bluetooth phone application. He can move around and move his arms up and down. He can also wave.
+The robot is controlled via a Bluetooth phone application.
+While building him we used **Bluetooth RC Control** Android Mobile App.
+We mapped all commands using this app but any other app can be used if we remap the command codes.
 <a name="Materials"/> </a>
 ### Materials
 
@@ -73,7 +76,7 @@ Other
 * M8 M3 bolts and nuts
 * 4x 22 diameter bearings
 
-### Hand 
+#### Hand 
 3D Printed - [files](/3D%20Parts/Hand)
 * 2x ConnectionToCilinder
 * 2x HandHolder
@@ -122,7 +125,7 @@ Other
 * 2x 22 diameter bearings
 
 <a name="Roadmap"/> </a>
-### Roadmap
+## Roadmap
 <table style="width:100%">
 
   <tr>
