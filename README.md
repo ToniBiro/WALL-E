@@ -1,6 +1,8 @@
 # WALL-E
 Wall-e is a robot that was left on earth to clean it up after the whole human race went off in space to live there while the earth was being cleaned up. He can move around, he can collect and compress the garbage and then pile it up in mountains (or solid and tidy structures).
 
+![wall-e-original](https://github.com/ToniBiro/WALL-E/blob/master/Images/1291995.jpg?raw=true)
+
 We tried to replicate the original Pixar friendly robot WALL-E.
 
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />
