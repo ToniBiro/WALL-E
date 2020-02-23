@@ -19,21 +19,24 @@ void wave(int arm){
         delay(20);
       }
     }
+    playOnceLeft = 0;
   }
   if(arm == 1){
     posServoRightArm = 90;
     rightArm.write(posServoRightArm);
-  }
+  
   for (int j = 0; j < 3; ++j){   
       for (int i = 0; i < 60; ++i){
         posServoRightArm -= 1;
         rightArm.write(posServoRightArm);
-        delay(10);
+        delay(20);
       }
       
       for (int i = 0; i < 60; ++i){
         posServoRightArm += 1;
-        delay(10);
+        delay(20);
       }
     }
+    playOnceRight = 0;
+  }
 }

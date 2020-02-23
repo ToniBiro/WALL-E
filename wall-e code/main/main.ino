@@ -3,6 +3,7 @@
 #include "globalVariables.h"
 #include "arm_movement.h"
 #include "wave.h"
+#include "wheel_movement.h"
 
 
 SoftwareSerial SUART(A0, A1);
@@ -27,7 +28,11 @@ void setup() {
   pinMode(btPin0, INPUT);
   pinMode(btPin1, INPUT);
   rightArm.attach(10);
-  rightArm.write(0);
+  leftArm.attach(9);
+  rightArm.write(180);
+  leftArm.write(5);
+  motor1.setSpeed(220);
+  motor4.setSpeed(220);
 }
 
 void setMotor(int motorSpeed , boolean reverse)
@@ -51,11 +56,13 @@ void loop() {
     //control the weels
     if (command == 70){
       //setMotor(motorSpeed, reverse);
+      move_forward(1);
       Serial.println("fata");
     }
   
     if (command == 66){
       //setMotor(motorSpeed, reverse);
+      move_backward(1);
       Serial.println("spate");
     }
     
@@ -74,28 +81,30 @@ void loop() {
 
     // For the left arm
     if(command == 70){
-      move_arm_up(posServoLeftArm);
+      move_left_arm_up(posServoLeftArm);
     }
     if(command == 66){
-      move_arm_down(posServoLeftArm);
+      move_left_arm_down(posServoLeftArm);
     }
 
     // For the right arm
     if(command == 82){
-      move_arm_up(posServoRightArm);
+      move_right_arm_up(posServoRightArm);
     }
     if(command == 76){
-      move_arm_down(posServoRightArm);
+      move_right_arm_down(posServoRightArm);
     }
 
     // Make Wall-e wave
     //wave with left - aka 0
-    if(command == 119){
+    if(command == 119 && playOnceLeft == 0){
       wave(0);
+      playOnceLeft = 1;
     }
     //wave with right - aka 1
-    if(command == 117){
+    if(command == 117 && playOnceRight == 0){
       wave(1);
+      playOnceRight = 1;
     }
   }
 
