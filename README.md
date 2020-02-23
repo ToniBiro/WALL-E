@@ -1,5 +1,8 @@
 # WALL-E
-A replica of the original Disney friendly robot WALL-E
+Wall-e is a robot that was left on earth to clean it up after the hole human race went of in space to live there while the earth was being cleaned up. He can move around, he can collect and compress the garbage and then pile it up in mountains (or solid and tidy structures).
+
+We tried to replicate the the original Pixar friendly robot WALL-E.
+
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />
 
 ### Table of Contents
@@ -11,6 +14,11 @@ A replica of the original Disney friendly robot WALL-E
 * [Roadmap](#Roadmap)
 <a name="Features"/> </a>
 ### Features
+- Wheel movement. He cand go front and back but can't turn around yet.
+- Arm movement. He can move them up and down but not front and back yet.
+- Compression Room is existent but not completely assembeled yet.
+- He is controlled via Bluetooth
+
 #### Done
 * Tracks movement  
 the robot can move and rotate    
