@@ -6,7 +6,9 @@ Wall-e is a robot that was left on earth to clean it up after the whole human ra
 We tried to replicate the original Pixar friendly robot WALL-E.
 
 <img src="/Images/walleRender.png" align="right" width = "70%" height = "70%" />
-
+### TEAM
+* Antonia Biro-Balan
+* Mihai Stoian
 ### Table of Contents
 * [Features](#Features)
 * [Usage](#Usage)
