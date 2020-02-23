@@ -208,5 +208,5 @@ Other
 
 ## Videos
 
-Track/Wheel Movement: https://drive.google.com/open?id=1swDcw1zlnlHRNl_Z5CJbrF9Ce5dbA-EY
-Arm movement: https://drive.google.com/open?id=1ivUnrZoqQpsUl6HV2EYKN_zgw3vp28cR
+- Track/Wheel Movement: https://drive.google.com/open?id=1swDcw1zlnlHRNl_Z5CJbrF9Ce5dbA-EY
+- Arm movement: https://drive.google.com/open?id=1ivUnrZoqQpsUl6HV2EYKN_zgw3vp28cR
