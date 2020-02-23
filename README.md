@@ -38,6 +38,81 @@ the robot can move it's arms 180 deg
 The robot is controlled via a Bluetooth phone application.
 While building him we used **Bluetooth RC Control** Android Mobile App.
 We mapped all commands using this app but any other app can be used if we remap the command codes.
+
+<a name="Roadmap"/> </a>
+## Roadmap
+<table style="width:100%">
+
+  <tr>
+    <td>19 January</td>
+    <td><img src="/Images/roadmap/19ian.jpg" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>31 January</td>
+    <td><img src="/Images/roadmap/31ian.jpg" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>3 February</td>
+    <td><img src="/Images/roadmap/3feb.jpg" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>6 February</td>
+    <td><img src="/Images/roadmap/6feb.jpg" align="right"/>
+</td>
+  </tr>
+    <tr>
+    <td>6 February</td>
+    <td><img src="/Images/roadmap/6feb.gif" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>21 February</td>
+    <td><img src="/Images/roadmap/9feb.jpg" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>9 February</td>
+    <td><img src="/Images/roadmap/9feb.gif" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>11 February</td>
+    <td><img src="/Images/roadmap/11feb.gif" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>11 February</td>
+    <td><img src="/Images/roadmap/11feb.jpg" align="right"/>
+</td>
+  </tr>
+    <tr>
+    <td>12 February</td>
+    <td><img src="/Images/roadmap/12feb.jpg" align="right"/>
+</td>
+  </tr>
+<tr>
+    <td>15 February</td>
+    <td><img src="/Images/roadmap/15feb.gif" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>20 February</td>
+    <td><img src="/Images/roadmap/20feb.jpg" align="right"/>
+</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>21 February</td>
+    <td><img src="/Images/roadmap/21feb.jpg" align="right"/>
+</td>
+  </tr>
+
+
+</table>
+
 <a name="Materials"/> </a>
 ### Materials
 
@@ -123,79 +198,5 @@ Other
 * M3 screws and nuts
 * M6 bolts and nuts
 * 2x 22 diameter bearings
-
-<a name="Roadmap"/> </a>
-## Roadmap
-<table style="width:100%">
-
-  <tr>
-    <td>19 January</td>
-    <td><img src="/Images/roadmap/19ian.jpg" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>31 January</td>
-    <td><img src="/Images/roadmap/31ian.jpg" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>3 February</td>
-    <td><img src="/Images/roadmap/3feb.jpg" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>6 February</td>
-    <td><img src="/Images/roadmap/6feb.jpg" align="right"/>
-</td>
-  </tr>
-    <tr>
-    <td>6 February</td>
-    <td><img src="/Images/roadmap/6feb.gif" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>21 February</td>
-    <td><img src="/Images/roadmap/9feb.jpg" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>9 February</td>
-    <td><img src="/Images/roadmap/9feb.gif" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>11 February</td>
-    <td><img src="/Images/roadmap/11feb.gif" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>11 February</td>
-    <td><img src="/Images/roadmap/11feb.jpg" align="right"/>
-</td>
-  </tr>
-    <tr>
-    <td>12 February</td>
-    <td><img src="/Images/roadmap/12feb.jpg" align="right"/>
-</td>
-  </tr>
-<tr>
-    <td>15 February</td>
-    <td><img src="/Images/roadmap/15feb.gif" align="right"/>
-</td>
-  </tr>
-  <tr>
-    <td>20 February</td>
-    <td><img src="/Images/roadmap/20feb.jpg" align="right"/>
-</td>
-  </tr>
-  </tr>
-  <tr>
-    <td>21 February</td>
-    <td><img src="/Images/roadmap/21feb.jpg" align="right"/>
-</td>
-  </tr>
-
-
-</table>
 
 
