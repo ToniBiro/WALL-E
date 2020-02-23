@@ -34,6 +34,7 @@ int playOnceRight = 0;
 
 
 // BUTTON READING FOR THE ANDROID APP USED
+// the app we used is: 
 // if different app is used just change the number of the command here
 // default reading = 83
 
