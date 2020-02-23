@@ -16,7 +16,7 @@ We tried to replicate the original Pixar friendly robot WALL-E.
 * [Roadmap](#Roadmap)
 <a name="Features"/> </a>
 ### Features
-- Wheel movement. He cand go front and back but can't turn around yet.
+- Wheel movement. He can move front and back but can't turn around yet.
 - Arm movement. He can move them up and down but not front and back yet.
 - Compression Room is existent but not completely assembeled yet.
 - He is controlled via Bluetooth
