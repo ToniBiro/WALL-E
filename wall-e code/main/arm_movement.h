@@ -3,7 +3,9 @@
 
 #include "globalVariables.h"
 
-
+// function that moves the right are 1 degree higher
+// in the setup function this servo is starting at 180 degrees due to the physical positioning of the servo
+// we put the delay in this 
 void move_right_arm_up(int & posServo){
 
   if(posServo  > 90){
