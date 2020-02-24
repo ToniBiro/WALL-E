@@ -119,7 +119,16 @@ We mapped all commands using this app but any other app can be used if we remap 
     <td><img src="/Images/roadmap/21feb.jpg" align="right"/>
 </td>
   </tr>
-
+<tr>
+    <td>22 February</td>
+    <td><img src="/Images/roadmap/22feb1.jpg" align="right"/>
+</td>
+  </tr>
+  <tr>
+    <td>22 February</td>
+    <td><img src="/Images/roadmap/22feb2.jpg" align="right"/>
+</td>
+  </tr>
 
 </table>
 
