@@ -48,9 +48,7 @@ We mapped all commands using this app but any other app can be used if we remap 
 
 <a name="Video"/> </a>
 ### Video  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xrvIICd3dlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[link](https://www.youtube.com/embed/xrvIICd3dlk)
 <a name="Roadmap"/> </a>
 ## Roadmap
 <table style="width:100%">
