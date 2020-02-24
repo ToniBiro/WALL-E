@@ -217,6 +217,11 @@ Other
 * M6 bolts and nuts
 * 2x 22 diameter bearings
 
+#### Other 
+3D Printed - [files](/3D%20Parts/Other)
+* Wall-E text
+* crate corners
+
 ## All Videos
 
 - Track/Wheel Movement: https://drive.google.com/open?id=1swDcw1zlnlHRNl_Z5CJbrF9Ce5dbA-EY
