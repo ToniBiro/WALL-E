@@ -46,6 +46,10 @@ The robot is controlled via a Bluetooth phone application.
 While building him we used **Bluetooth RC Control** Android Mobile App.
 We mapped all commands using this app but any other app can be used if we remap the command codes.
 
+<a name="Video"/> </a>
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrvIICd3dlk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a name="Roadmap"/> </a>
 ## Roadmap
 <table style="width:100%">
