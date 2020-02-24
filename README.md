@@ -48,7 +48,7 @@ We mapped all commands using this app but any other app can be used if we remap 
 
 <a name="Video"/> </a>
 ### Video  
-[link](https://www.youtube.com/embed/xrvIICd3dlk)
+[YouTube](https://youtu.be/xrvIICd3dlk)
 <a name="Roadmap"/> </a>
 ## Roadmap
 <table style="width:100%">
