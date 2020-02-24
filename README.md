@@ -47,7 +47,7 @@ While building him we used **Bluetooth RC Control** Android Mobile App.
 We mapped all commands using this app but any other app can be used if we remap the command codes.
 
 <a name="Video"/> </a>
-### Video  
+### Presentation Video  
 [YouTube](https://youtu.be/xrvIICd3dlk)
 <a name="Roadmap"/> </a>
 ## Roadmap
@@ -209,7 +209,7 @@ Other
 * M6 bolts and nuts
 * 2x 22 diameter bearings
 
-## Videos
+## All Videos
 
 - Track/Wheel Movement: https://drive.google.com/open?id=1swDcw1zlnlHRNl_Z5CJbrF9Ce5dbA-EY
 - Arm movement: https://drive.google.com/open?id=1ivUnrZoqQpsUl6HV2EYKN_zgw3vp28cR
