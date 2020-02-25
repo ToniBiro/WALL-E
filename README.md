@@ -19,7 +19,7 @@ Wall-e is a robot that was left on earth to clean it up after the whole human ra
 * [Usage](#Usage)
 * [Video](#Video)
 * [Roadmap](#Roadmap)
-* [Materials](#Materials)  
+* [Materials and 3D models](#Materials)  
 <a name="Features"/> </a>
 ### Features
 #### Overview
